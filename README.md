@@ -6,7 +6,7 @@
 
 Projeto com o objetivo de gerar um video, com avatar virtual, com as facilidades das ferramentas de IA.
 
-<a href=""> Clique aqui para assistir</a>
+<a href="https://github.com/anabeatriziannotta/create-a-video-ia/blob/main/ep1.mp4"> Clique aqui para assistir</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
